@@ -13,6 +13,8 @@
     "allowJs": true,
     "strict": true,
     "alwaysStrict": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
     // "noUnusedParameters": true,
     // "noUnusedLocals": true,
     // "noImplicitReturns": true,
